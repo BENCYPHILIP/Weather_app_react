@@ -41,6 +41,7 @@ margin:10px auto;
 }
 `
 
+
 const City = (props) => {
   const {updateCity,fetchWeather} = props;
   return (
